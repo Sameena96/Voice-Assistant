@@ -1,6 +1,8 @@
 **Interactive Voice Assistant**
+
 This Python-based project is an interactive voice assistant capable of performing various tasks such as reading documents, searching the web, and playing YouTube videos. The assistant utilizes text-to-speech (TTS) and speech interruption capabilities for seamless interactions.
 **Features**
+
 1. Speak Text: Input text for the assistant to read aloud.
 2. Google Search: Perform a Google search for a given query.
 3. Wikipedia Search: Retrieve summarized information from Wikipedia.
@@ -11,6 +13,7 @@ This Python-based project is an interactive voice assistant capable of performin
 8. Exit Program: Terminate the program gracefully.
 
 **Requirements Dependencies**
+
 Install the required libraries by running:
 
       _pip install pyttsx3 wikipedia python-docx PyPDF2_
@@ -56,5 +59,6 @@ Follow the menu to perform desired tasks.
 - Wikipedia Search: May fail for ambiguous or specific queries.
 
 **Contributing**
+
 Feel free to fork the repository, create a branch, and submit pull requests for improvements or bug fixes.
 
